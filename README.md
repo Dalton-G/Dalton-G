@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dalton Gan
 - 👀 I’m interested in programming, art, and gaming
-- 🌱 I’m currently learning the MERN Stack
-- 💞️ My main languages are PHP, Java, Python, JavaScript (incl. Node)
+- 🌱 I’m currently learning React Native, Ruby on Rails, Flutter and React
+- 💞️ My main languages are JavaScript, Python, Java, PHP
 - 📫 You can reach me on Linkedin @ https://www.linkedin.com/in/dalton-gml/
 
 <!---
