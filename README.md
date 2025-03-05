@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dalton Gan
-- 👀 I’m interested in programming, art, and gaming
-- 🌱 I’m currently learning Flutter
-- 💞️ My main languages are JavaScript, Python, Java, PHP
+- 👀 I’m interested in needle felting, chenille flower making, and writing scalable code
+- 🌱 I’m currently learning Go and React Native
+- 💞️ My main languages are Dart, TypeScript, Java, Kotlin and Python
 - 📫 You can reach me on Linkedin @ https://www.linkedin.com/in/dalton-gml/
 
 <!---
